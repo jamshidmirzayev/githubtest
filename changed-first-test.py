@@ -56,3 +56,15 @@
 # Misol: main.pyni o’zgartirdingiz, lekin hali git add qilmadingiz:
 
 # git diff
+
+class Marra:
+    
+    def __init__(self, name, age, height):
+        self.name = name
+        self.age = age
+        self.height = height
+        
+    def _untouchable(self):
+        ...
+        
+    # ASDDSA
