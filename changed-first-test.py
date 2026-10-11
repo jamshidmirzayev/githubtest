@@ -68,3 +68,8 @@ class Marra:
         ...
         
     # ASDDSA
+    
+def f(n):
+    print(n)
+    
+f(1 + 1)
